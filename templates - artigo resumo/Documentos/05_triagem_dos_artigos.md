@@ -32,7 +32,7 @@ Registre as buscas realizadas e justifique a inclusão ou exclusão de cada arti
 | **Paradigms for Restoration of Somatosensory (2018)** | Excluir | — | Não disponível completamente. |
 | **Designing with Haptic Feedback (2000)** | Excluir | — | Não disponível completamente. |
 | **History from Telepresence (2001)** | Excluir | — | Não disponível completamente. |
-| **Haptic Feedback (Toques, texturas em VR/AR) (2022)** | Incluir | `Aprovar/Excluir` | Oferece uma base teórica e de engenharia sólida e atualizada sobre como capturar e replicar a sensação do tato. |
+| **Haptic Feedback (Toques, texturas em VR/AR) (2022)** | Incluir | `Excluir` | Oferece uma base teórica e de engenharia sólida e atualizada sobre como capturar e replicar a sensação do tato. |
 | **Tactile — Recuperação de Sensibilidade Tátil (2009)** | Excluir | — | Não disponível completamente. |
 | **Mobile — Feedback Tátil (2007)** | Excluir | — | Não disponível completamente. |
 | **Quantitative Tactile — Simulação Tátil e Térmica (2006)** | Excluir | — | Não disponível completamente. |
