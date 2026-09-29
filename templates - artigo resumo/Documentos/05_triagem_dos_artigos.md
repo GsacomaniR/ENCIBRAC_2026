@@ -19,7 +19,7 @@ Registre as buscas realizadas e justifique a inclusão ou exclusão de cada arti
 - Duplicatas removidas: `3`
 - Artigos avaliados por título e resumo: `18`
 - Artigos selecionados para leitura completa: `3`
-- Artigos incluídos no conjunto final: `7`
+- Artigos incluídos no conjunto final: `8`
 
 ## Decisões
 
