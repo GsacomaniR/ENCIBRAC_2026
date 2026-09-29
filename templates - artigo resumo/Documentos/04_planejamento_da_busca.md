@@ -8,32 +8,34 @@ Planeje como os artigos serão localizados e selecionados antes de iniciar a bus
 
 | Conceito principal | Sinônimos em português | Termos em inglês |
 |---|---|---|
-| `[preencher]` | `[preencher]` | `[preencher]` |
-| `[preencher]` | `[preencher]` | `[preencher]` |
-| `[preencher]` | `[preencher]` | `[preencher]` |
+| `Interfaces Cerebrais` | `Interface Cérebro Computador` | `BCI` |
+| `Feedback Somatossensorial` | `Retorno Somatossensorial` | `Somatosensory Feedback` |
+| `Ambientes Virtuais Imersivos` | `Realidade Virtual` | `Virtual Reality` |
 
 ## Strings de busca
 
 | Nº | String completa | Base em que será usada |
 |---|---|---|
-| 1 | `[preencher]` | `[preencher]` |
-| 2 | `[preencher]` | `[preencher]` |
-| 3 | `[preencher]` | `[preencher]` |
+| 1 | `("brain-computer interface" OR "BCI" OR "neural interface") AND ("somatosensory feedback" OR "tactile feedback" OR "haptic feedback") AND ("sensory restoration" OR "tactile sensation")` | `IEEE Xplore / ACM Digital Library` |
+| 2 | `("Brain-Computer Interfaces"[Mesh] OR "brain-computer interface" OR "BCI") AND ("somatosensory feedback" OR "tactile feedback") AND ("sensory restoration" OR "touch perception")` | `PubMed` |
+| 3 | `("brain-computer interface" OR "BCI") AND ("tactile feedback" OR "haptic") AND ("machine learning" OR "virtual reality") AND ("sensory restoration" OR "touch")` | `cienceDirect` |
 
 ## Bases de dados
 
 | Base | Justificativa da escolha |
 |---|---|
-| `[preencher]` | `[preencher]` |
-| `[preencher]` | `[preencher]` |
+| `IEEE Xplore ` | `Oferece acesso a uma das maiores e mais respeitadas coleções de literatura técnico-científica nas áreas de engenharia, ciência da computação e tecnologia.` |
+| `ACM Digital Library` | `Plataforma confiável para pesquisas de teor científico na área de Ciência da Computação e Tecnologia da Informação.` |
+|`PubMed`| `Acesso a informações clínicas como testes em animais, insetos e estudos de BCI invasiva e não invasiva.` |
+|`cienceDirect`| `Fonte confiável de pesquisas acadêmicas.` |
 
 ## Critérios de inclusão
 
-- `[período]`
-- `[idioma]`
-- `[tipo de publicação]`
-- `[aderência ao tema]`
-- `[outro critério]`
+- `Publicações lançadas de 2018 até a data da busca final.`
+- `Inglês`
+- `Artigos científicos publicados em periódicos (journals) ou publicações de congresso, que possuam acesso ao texto completo.`
+- `Trabalhos com relação clara e direta entre interface neural/cérebro-computador e percepção ou restauração tátil/somatossensorial.`
+- `Estudos que apresentem dados claros sobre a via de estimulação (cutânea, periférica ou cortical) e suas formas de avaliação.`
 
 ## Critérios de exclusão
 
@@ -48,7 +50,7 @@ Plano de busca com termos, strings, bases e critérios.
 
 ## Checklist
 
-- [ ] Há termos em português e inglês.
-- [ ] As strings usam AND e OR corretamente.
-- [ ] As bases são adequadas ao tema.
-- [ ] Os critérios foram definidos antes da triagem.
+- [x] Há termos em português e inglês.
+- [x] As strings usam AND e OR corretamente.
+- [x] As bases são adequadas ao tema.
+- [x] Os critérios foram definidos antes da triagem.
