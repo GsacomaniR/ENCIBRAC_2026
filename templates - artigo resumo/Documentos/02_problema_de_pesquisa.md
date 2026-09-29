@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `Gustavo Sacomani Rafael` | `Preencher etapa "02 problema de pesquisa` |
+| `Gustavo Sacomani Rafael` | `Preencher etapa "02 problema de pesquisa"` |
