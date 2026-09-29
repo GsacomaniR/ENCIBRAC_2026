@@ -39,7 +39,7 @@ Registre as buscas realizadas e justifique a inclusão ou exclusão de cada arti
 | **Robot-Assisted Minimally Invasive Surgery (2024)** | Incluir | `Excluir` | O trabalho categoriza e analisa sistematicamente as principais abordagens de retorno tátil. |
 | **Visual-Electrotactile Stimulation (2021)** | Incluir | `Aprovar` | O artigo pode exemplificar a combinação de BCI + RV + Estimulação Eletrotátil. O sistema utiliza EEG para BCI baseada em imagética motora em conjunto com um ambiente imersivo em Realidade Virtual via HMD. |
 | **Multi-Level Perception Systems (2026)** | Incluir | `Excluir` | O artigo discute amplamente a restauração de sensações táteis. |
-| **Impact of tactile processing (2026)** | Excluir | `Excluir` | Ausência de BCI e Ausência de RV, porém trata-se de como o processamento tátil afeta a excitabilidade e o aprendizado no córtex motor. |
+| **Impact of tactile processing (2026)** | Excluir | `—` | Ausência de BCI e Ausência de RV, porém trata-se de como o processamento tátil afeta a excitabilidade e o aprendizado no córtex motor. |
 | **Evaluation of EEG Oscillatory Patterns (2023)** | Incluir | `Excluir` | O estudo investiga as respostas do córtex somatossensorial e motor capturadas por EEG ao analisar a imaginação mental de um estímulo tátil. |
 | **Enhanced Motor Imagery Decoding by Calibration (2023)** | Incluir | `Aprovar` | Sem RV; a estimulação tátil é usada como uma "ajuda" para que o cérebro produza padrões eletroencefalográficos mais limpos durante o treino do modelo de IA. |
 | **Rehabilitation Technologies: Robotics, Virtual Reality, and Brain-Computer Interfaces (2025)** | Excluir | — | Motivo registrado na triagem. |
@@ -50,8 +50,8 @@ Conjunto definitivo de artigos e registro das decisões.
 
 ## Checklist
 
-- [ ] Todas as buscas possuem data e string.
-- [ ] As duplicatas foram removidas.
-- [ ] Os critérios foram aplicados igualmente.
-- [ ] Toda exclusão possui justificativa.
-- [ ] Os artigos finais estão diretamente ligados ao problema.
+- [x] Todas as buscas possuem data e string.
+- [x] As duplicatas foram removidas.
+- [x] Os critérios foram aplicados igualmente.
+- [x] Toda exclusão possui justificativa.
+- [x] Os artigos finais estão diretamente ligados ao problema.
