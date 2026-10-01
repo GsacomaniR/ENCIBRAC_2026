@@ -10,7 +10,7 @@ Preencha uma cópia deste template para cada artigo selecionado.
 - DOI ou URL: `https://pmc.ncbi.nlm.nih.gov/articles/PMC7325479/`
 - Base de origem: `PubMed`
 - Leitor responsável: `Gustavo Sacomani Rafael`
-- Data da leitura: `08/09/2026`
+- Data da leitura: `08/08/2026`
 
 ## Fichamento
 
