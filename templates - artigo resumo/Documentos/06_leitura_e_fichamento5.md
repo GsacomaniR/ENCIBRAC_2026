@@ -6,11 +6,11 @@ Preencha uma cópia deste template para cada artigo selecionado.
 
 ## Identificação do artigo
 
-- Referência completa: `[preencher]`
-- DOI ou URL: `[preencher]`
-- Base de origem: `[preencher]`
-- Leitor responsável: `[preencher]`
-- Data da leitura: `[dd/mm/aaaa]`
+- Referência completa: `Colan, J., Davila, A. and Hasegawa, Y. (2024), Tactile Feedback in Robot-Assisted Minimally Invasive Surgery: A Systematic Review. Int J Med Robot, 20: e70019.`
+- DOI ou URL: `https://onlinelibrary.wiley.com/doi/full/10.1002/rcs.70019`
+- Base de origem: `Wiley Online Library`
+- Leitor responsável: `Gustavo Sacomani Rafael`
+- Data da leitura: `01/30/2026`
 
 ## Fichamento
 
