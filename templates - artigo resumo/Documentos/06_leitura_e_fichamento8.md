@@ -26,38 +26,32 @@ e ainda existem poucas evidências sobre o potencial da imagética tátil para g
 
 ### Método utilizado
 
-`[preencher]`
+`Foi realizado um experimento com 15 participantes saudáveis utilizando eletroencefalografia (EEG). Os voluntários receberam estímulos vibrotáteis reais e posteriormente executaram tarefas de imagética háptica, imaginando essas sensações sem o estímulo físico. Os sinais cerebrais foram analisados por técnicas de processamento e classificação para avaliar a ativação sensório-motora em Interfaces Cérebro-Computador.`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`O estudo foi realizado no contexto das BCI's baseadas em imagética tátil, investigando o potencial da imaginação de sensações táteis para gerar sinais neurais utilizáveis em BCI. A amostra foi composta por 15 participantes. Os dados analisados consistiram em sinais EEG coletados durante estímulos vibrotáteis reais e tarefas de imagética tátil, além de medidas de ativação cortical (ERD) e métricas de classificação dos padrões gerados.`
 
 ### Principais resultados
 
-`[preencher]`
+`O estudo demonstrou que a imagética háptica produz ativação significativa nas áreas sensório-motoras do cérebro, gerando padrões de EEG semelhantes aos observados na imagética motora. Os sinais obtidos atingiram cerca de 78% na classificação, indicando que a imaginação de sensações táteis pode ser utilizada de forma eficiente em sistemas BCI e representar uma alternativa promissora para aplicações de reabilitação.`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`O estudo foi realizado com apenas 15 participantes saudáveis, sem incluir pacientes neurológicos, o que limita a generalização dos resultados. Além disso, a imagética tátil dependia de treinamento antecipado com estímulos reais e foram avaliados apenas efeitos de curto prazo, sendo necessários estudos com amostras maiores e aplicações clínicas para validar a abordagem.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`O artigo contribui para esta pesquisa ao demonstrar que a imagética háptica é capaz de gerar sinais neurais detectáveis e classificáveis por sistemas BCI, produzindo ativação sensório-motora semelhante à observada na imagética motora. Seus resultados reforçam o uso de feedback somatossensorial para geração e restauração de sensações táteis artificiais, fornecendo evidências importantes para aplicações em interfaces cérebro-computador e Realidade Virtual.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
-
-### Citação literal opcional
-
-> `[trecho exato]`
-
-Página: `[número]`
+`O artigo apresenta como principal força a demonstração experimental de que a imagética háptica pode gerar sinais neurais classificáveis por sistemas BCI. Como fragilidades, possui amostra reduzida, ausência de pacientes neurológicos e não utiliza Realidade Virtual. O estudo concorda que informações táteis podem ser utilizadas para fortalecer a interação cérebro-máquina, mas diverge por focar na imagética tátil e na classificação de sinais EEG, enquanto esta pesquisa concentra-se na geração e restauração de sensações por meio de feedback somatossensorial em ambientes virtuais.`
 
 ## Checklist
 
-- [ ] O artigo foi lido além do resumo.
-- [ ] O método e os resultados foram identificados.
-- [ ] As limitações foram registradas.
-- [ ] A conexão com o tema foi explicada.
+- [x] O artigo foi lido além do resumo.
+- [x] O método e os resultados foram identificados.
+- [x] As limitações foram registradas.
+- [x] A conexão com o tema foi explicada.
 - [ ] Toda citação literal contém página.
