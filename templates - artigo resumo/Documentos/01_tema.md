@@ -6,7 +6,6 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: `[preencher]`
 - Integrantes: `Gustavo Sacomani Rafael`
 - Data: `18/06/2026`
 
@@ -47,8 +46,8 @@ Tema delimitado e justificativa.
 - [x] O tema é específico.
 - [x] O tema é relevante.
 - [x] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [x] O recorte está claro.
+- [x] O tema foi validado pelo professor.
 
 ## Contribuições
 
