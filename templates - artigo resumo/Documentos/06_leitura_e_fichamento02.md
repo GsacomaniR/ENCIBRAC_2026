@@ -46,6 +46,12 @@ Preencha uma cópia deste template para cada artigo selecionado.
 
 `O artigo apresenta forte relação com esta pesquisa ao demonstrar que o feedback eletrotátil em Realidade Virtual melhora o desempenho de sistemas Interfaces Cérebro-Computador e aumenta a ativação sensório-motora. Sua principal força é fornecer evidências experimentais diretamente ligadas ao uso de feedback somatossensorial em ambientes virtuais. Como limitações, possui uma amostra reduzida e avalia apenas participantes saudáveis. O estudo concorda com a proposta de utilização de feedback tátil para fortalecer o loop sensório-motor, diferenciando-se por focar na melhoria da performance da BCI.`
 
+### Citação literal opcional
+
+> `Portanto, o uso da estimulação eletrotátil associada ao feedback visual melhorou o desempenho de classificação da BCI imersiva baseada em Realidade Virtual. Além disso, contribuiu para manter a atenção dos participantes e facilitou a execução da imagética motora quando comparado ao uso exclusivo do feedback visual." (ACHANCCARAY; IZUMI; HAYASHIBE, 2021).`
+
+Página: `11`
+
 ## Checklist
 
 - [x] O artigo foi lido além do resumo.
