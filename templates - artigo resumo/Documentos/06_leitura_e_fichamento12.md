@@ -9,7 +9,7 @@ Preencha uma cópia deste template para cada artigo selecionado.
 - Referência completa: `BREWSTER, Stephen; CHOHAN, Faraz; BROWN, Lorna. Tactile feedback for mobile interactions. In: CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, 2007, San Jose, California. Proceedings [...].
   New York: ACM, 2007. p. 159-162.`
 - DOI ou URL: `https://dl.acm.org/doi/10.1145/1240624.1240649`
-- Base de origem: `ACM`
+- Base de origem: `ACM Digital Library`
 - Leitor responsável: `Gustavo Sacomani Rafael`
 - Data da leitura: `18/10/2026`
 
