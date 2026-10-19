@@ -18,7 +18,7 @@ Planeje como os artigos serão localizados e selecionados antes de iniciar a bus
 |---|---|---|
 | 1 | `("brain-computer interface" OR "BCI" OR "neural interface") AND ("somatosensory feedback" OR "tactile feedback" OR "haptic feedback") AND ("sensory restoration" OR "tactile sensation")` | `IEEE Xplore / ACM Digital Library / Annual Review / Wiley Online Library` |
 | 2 | `("Brain-Computer Interfaces"[Mesh] OR "brain-computer interface" OR "BCI") AND ("somatosensory feedback" OR "tactile feedback") AND ("sensory restoration" OR "touch perception")` | `PubMed / MDPI` |
-| 3 | `("brain-computer interface" OR "BCI") AND ("tactile feedback" OR "haptic") AND ("machine learning" OR "virtual reality") AND ("sensory restoration" OR "touch")` | `cienceDirect / The University of British Columbia` |
+| 3 | `("brain-computer interface" OR "BCI") AND ("tactile feedback" OR "haptic") AND ("machine learning" OR "virtual reality") AND ("sensory restoration" OR "touch")` | `cienceDirect` |
 
 ## Bases de dados
 
