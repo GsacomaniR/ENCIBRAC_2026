@@ -19,6 +19,10 @@ Planeje como os artigos serão localizados e selecionados antes de iniciar a bus
 | 1 | `("brain-computer interface" OR "BCI" OR "neural interface") AND ("somatosensory feedback" OR "tactile feedback" OR "haptic feedback") AND ("sensory restoration" OR "tactile sensation")` | `IEEE Xplore / ACM Digital Library` |
 | 2 | `("Brain-Computer Interfaces"[Mesh] OR "brain-computer interface" OR "BCI") AND ("somatosensory feedback" OR "tactile feedback") AND ("sensory restoration" OR "touch perception")` | `PubMed` |
 | 3 | `("brain-computer interface" OR "BCI") AND ("tactile feedback" OR "haptic") AND ("machine learning" OR "virtual reality") AND ("sensory restoration" OR "touch")` | `cienceDirect` |
+| 4 | `("brain-computer interface" OR "BCI" OR "neural interface") AND ("somatosensory feedback" OR "tactile feedback" OR "haptic feedback") AND ("sensory restoration" OR "tactile sensation")` | `Wiley Online Library` |
+| 5 | `("Brain-Computer Interfaces"[Mesh] OR "brain-computer interface" OR "BCI") AND ("somatosensory feedback" OR "tactile feedback") AND ("sensory restoration" OR "touch perception")` | `Annual Review` |
+| 6 | `("brain-computer interface" OR "BCI") AND ("tactile feedback" OR "haptic") AND ("machine learning" OR "virtual reality") AND ("sensory restoration" OR "touch")` | `MDPI` |
+| 7 | `("brain-computer interface" OR "BCI" OR "neural interface") AND ("somatosensory feedback" OR "tactile feedback" OR "haptic feedback") AND ("sensory restoration" OR "tactile sensation")` | `The University of British Columbia` |
 
 ## Bases de dados
 
@@ -28,6 +32,10 @@ Planeje como os artigos serão localizados e selecionados antes de iniciar a bus
 | `ACM Digital Library` | `Plataforma confiável para pesquisas de teor científico na área de Ciência da Computação e Tecnologia da Informação.` |
 |`PubMed`| `Acesso a informações clínicas como testes em animais, insetos e estudos de BCI invasiva e não invasiva.` |
 |`cienceDirect`| `Fonte confiável de pesquisas acadêmicas.` |
+|`Wiley Online Library`| `Acesso a artigos científicos revisados por pares e de alta qualidade em áreas relacionadas ao tema da pesquisa, garantindo fontes confiáveis e atualizadas para a fundamentação.` |
+| `Annual Review` | `Reune revisões científicas de alta qualidade que sintetizam o conhecimento mais relevante e consolidado sobre os temas estudados, fornecendo uma base teórica confiável para a pesquisa.` |
+| `MDPI` | `Disponibiliza artigos científicos atuais, revisados por pares e de acesso aberto, relevantes para a fundamentação teórica da pesquisa` |
+| `The University of British Columbia` | `Utiliza por fornecer pesquisas acadêmicas confiáveis e relevantes, desenvolvidas por uma instituição de excelência reconhecida internacionalmente.` |
 
 ## Critérios de inclusão
 
@@ -43,10 +51,6 @@ Planeje como os artigos serão localizados e selecionados antes de iniciar a bus
 - `[fora do tema]`
 - `[sem texto completo, se aplicável]`
 - `[outro critério]`
-
-## Produto da etapa
-
-Plano de busca com termos, strings, bases e critérios.
 
 ## Checklist
 
