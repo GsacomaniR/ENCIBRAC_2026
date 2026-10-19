@@ -6,50 +6,106 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`Interfaces Cérebro-Computador para Geração e Restauração de Sensações Táteis por Meio de Feedback Somatossensorial em Ambientes de Realidade Virtual`
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`
+`Interfaces cérebro-computador; Feedback somatossensorial; Sensações táteis; Realidade virtual; Neuroreabilitação.`
 
 ## Introdução
 
-`[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+  Os danos neurológicas e os distúrbios motores decorrentes de condições como Acidente Vascular Cerebral (AVC), traumatismos e doenças neurodegenerativas continuam representando importantes desafios para a reabilitação clínica. Nesse cenário, as Interfaces Cérebro-Computador (BCI) têm se consolidado como uma alternativa promissora para estabelecer canais de comunicação entre o cérebro e dispositivos externos, permitindo conversão da atividade neural em comandos capazes de controlar sistemas assistivos, neuropróteses e ambientes virtuais.
+
+  Habitualmente, muitas aplicações de BCI dependem predominantemente do feedback visual para informar o usuário sobre o resultado de suas ações. Entretanto, estudos recentes apontam que a utilização exclusiva dessa via sensorial pode aumentar a carga cognitiva, favorecer a fadiga mental e limitar o engajamento em tarefas repetitivas de treinamento motor. Em contrapartida, o feedback somatossensorial, por meio de estímulos táteis e proprioceptivos, demonstra potencial para complementar o retorno visual e promover uma interação mais natural entre usuário e sistema.
+
+  A relevância dessa abordagem está associada ao papel do feedback sensorial no fechamento do loop sensório-motor. A ausência de informações táteis reduz a percepção corporal, compromete controle fino da movimentação e pode limitar a eficiência de sistemas de reabilitação baseados em BCI. Embora avanços importantes tenham sido observados em áreas como neuropróteses, imagética motora, imagética tátil e tecnologias táteis, os estudos ainda se encontram dispersos entre diferentes aplicações e metodologias, dificultando uma compreensão integrada das contribuições do feedback somatossensorial não invasivo.
+
+  Diante desse contexto, justifica-se a realização de uma revisão crítica da literatura que reúna e compare as principais abordagens empregadas na geração e restauração de sensações táteis por feedback somatossensitivo não invasivo. A compreensão dessas estratégias pode contribuir para o desenvolvimento de sistemas mais eficientes de reabilitação, assistência tecnológica e interação cérebro-computador.
+
+  Deste modo, este trabalho tem como objetivo analisar criticamente as abordagens de BCI associadas ao feedback somatossensorial não invasivo para a geração e restauração de sensações táteis, identificando seus fundamentos, benefícios, limitações e perspectivas de aplicação na reabilitação neurológica e em sistemas de interação humano-máquina.
 
 ## Metodologia
 
-`[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+  Este artigo caracteriza-se como uma revisão narrativa crítica da literatura, com o objetivo de analisar as contribuições do feedback somatossensorial não invasivo para a geração e restauração de sensações táteis em BCI. A abordagem adotada permitiu reunir, comparar e discutir diferentes perspectivas teóricas e experimentais sobre o tema, identificando avanços, limitações e tendências de pesquisa.
+
+  As pesquisas bibliográficas foram realizadas nas bases de dados IEEE Xplore, PubMed, ScienceDirect, ACM Digital Library, Wiley Online Library, MDPI, Annual Review e The University of British Columbia, por reunirem publicações científicas relevantes nas áreas de neurociência, engenharia biomédica, reabilitação, tecnologias hápticas e interfaces cérebro-computador.
+
+  Foram utilizadas combinações de palavras-chave em língua inglesa, incluindo os termos: Brain-Computer Interface, BCI, Somatosensory Feedback, Haptic Feedback, Tactile Feedback, Tactile Imagery, Neural Interface, Virtual Reality, Tactile Sensation, Sensory Restoration e Touch Perception. Os operadores booleanos AND e OR foram empregados para ampliar ou restringir as estratégias de busca de acordo com o foco da investigação.
+
+  Conforme o critério temporal, foram priorizados artigos publicados entre 2018 e setembro de 2026, permitindo contemplar os avanços mais recentes da área. Trabalhos anteriores a esse período foram incluídos apenas quando considerados referências clássicas ou fundamentais para a compreensão dos conceitos de feedback e interação homem-máquina.
+
+  Os critérios de inclusão compreenderam: (I) artigos científicos revisados por pares; (II) estudos relacionados ao feedback somatossensorial, feedback tátil, feedback háptico ou restauração sensorial; (III)   pesquisas envolvendo BCI, neuropróteses, imagética motora, imagética tátil ou reabilitação neurológica; e (IV) trabalhos disponíveis em língua inglesa. Foram excluídos artigos duplicados, estudos sem relação direta do tema e publicações com foco predominantemente técnico sem discussão sobre percepção sensorial ou interação usuário-sistema.
+
+  O processo de triagem foi realizado por leitura dos títulos, resumos e palavras-chave, seguida da leitura integral dos artigos considerados mais relevantes. Após essa etapa, os estudos selecionados foram organizados e fichados, permitindo a identificação dos objetivos, métodos, resultados, limitações e contribuições de pesquisa.
+
+  Por fim, os artigos foram analisados de forma comparativa e agrupados em três eixos temáticos: (I) feedback somatossensorial e restauração sensorial, (II) feedback tátil e desempenho de BCI e (III) fundamentos neurofisiológicos e hápticos. A partir dessa organização, foram identificadas convergências, divergências, limitações e lacunas de pesquisa relacionadas ao uso de feedback somatossensorial não invasivo para a restauração háptica em sistemas BCI.
 
 ## Revisão da literatura
 
 ### `[Eixo 1]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`As pesquisas de Pasluosta, Kiele e Stieglitz (2018), Schostek, Schurr e Buess (2009) e Fleury et al. (2020) convergem ao defender que o feedback somatossensorial é um elemento fundamental para restaurar informações sensoriais perdidas e melhorar a interação usuário e sistema. Em termos metodológicos, os três trabalhos adotam revisões de literatura, analisando diferentes tecnologias de feedback tátil aplicadas a neuropróteses, cirurgia assistida por tecnologia e interfaces cérebro-computador. Os resultados indicam que restituição de estímulos táteis e proprioceptivos favorece o fechamento do loop sensório-motor, melhora a concepção do usuário e aumenta a precisão das tarefas executadas. Entretanto, existem diferenças quanto ao foco de investigação: Pasluosta, Kiele e Stieglitz concentram-se na estimulação do sistema nervoso conectados a aparelhos para restauração sensorial em neuropróteses; Schostek, Schurr e Buess discutem a compensação da perda tátil em cirurgias laparoscópicas; enquanto Fleury et al. analisam aplicações de feedback háptico em BCI e neurofeedback. Como limitações, os autores apontam a escassez de validações clínicas em larga escala, falta de padronização das tecnologias utilizadas e as dificuldades em reproduzir artificialmente sensações táteis com fidelidade semelhante à percepção natural, evidenciando necessidade de pesquisas que integrem restauração sensorial, BCI e ambientes virtuais em sistemas mais completos e naturalmente consistentes.`
 
 ### `[Eixo 2]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`As pesquisas de Achanccaray et al. (2021), Zhong et al. (2023) e Lakshminarayanan et al. (2023) convergem ao demonstrar que a incorporação de estímulos táteis em sistemas BCI favorece a ativação sensório-motora e melhora a interface. Em relação aos métodos, Achanccaray et al. realizaram um experimento com EEG, imagética motora, realidade virtual e feedback eletrotátil, enquanto Zhong et al. investigaram a calibração assistida por estimulação vibratória durante tarefas de imagética motora. Já Lakshminarayanan et al. analisaram padrões EEG gerados por imagética tátil, avaliando sua capacidade de classificação em sistemas BCI. As consequências mostram que o feedback tátil pode aumentar a precisão da classificação dos sinais neurais, intensificar a dessicronização relacionada a eventos (ERD) e reduzir dificuldades associadas à calibração e ao acontecimento conhecido como BCI illiteracy. Entretanto, os trabalhos divergem quanto à abordagem utilizada: Achanccaray et al. enfatizam a integração entre realidade virtual e feedback eletrotátil, Zhong et al. focam na otimização da calibração por estimulação periférica, enquanto Lakshminarayanan et al. investigam a imagética tátil como alternativa à imagética motora tradicional. Como limitações, destacam-se o uso de amostras reduzidas, participação exclusiva de indivíduos saudáveis e a ausência de validação clínica em larga escala, evidenciando a necessidade de estudos envolvendo pacientes neurológicos e aplicações similares a cenários reais de reabilitação.`
+
+### `[Eixo3]`
+
+`As pesquisas de Goulding, Bollu e Büschges (2025), See, Choco e Chandramohan (2022), MacLean (2000) e Brewster, Chohan e Brown (2007) convergem ao reconhecer que o tato e o feedback sensorial desempenham papel na percepção, no controle motor e na interação entre usuários e sistemas tecnológicos. Em termos metodológicos, os trabalhos de Goulding et al. (2025) e See et al. (2022) consistem em revisões de literatura voltadas à neurofisiologia do feedback sensorial e às tecnologias hápticas, enquanto MacLean (2000) desenvolve uma análise conceitual sobre design de interfaces hápticas e Brewster et al. (2007) realizam um estudo empírico para avaliar os efeitos do feedback vibrotátil na interação com dispositivos móveis. Os resultados indicam que o feedback tátil melhora a percepção do usuário, reduz erros de interação, complementa os canais ópticos e auditivos e contribui para uma comunicação mais eficiente entre humano e máquina. Entretanto, os estudos diferem quanto ao foco de investigação: Goulding et al. enfatizam os mecanismos biológicos do controle sensório-motor, See et al. discutem tecnologias capazes de reproduzir sensações, MacLean aborda princípios de projeto de interfaces hápticas e Brewster et al. analisam aplicações práticas de feedback vibrotátil. Como principal limitação, observa-se que esses trabalhos não exploram diretamente interfaces cérebro-computador nem aplicações específicas de restauração sensorial, fornece principalmente uma base teótica e tecnológica para compreender a importância do feedback somatossensorial em sistemas interativos e imersivos.`
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+  A bibliografia analisada evidencia uma tendência crescente de integração entre Interfaces Cérebro-Computador (BCI), feedback somatossensorial e tecnologias de reabilitação, com o objetivo de tornar a interação cérebro-máquina mais natural e eficiente. Estudos convergem ao demonstrar que a inclusão de estímulos táteis e proprioceptivos favorece o fechamento do loop sensório-motor, aumenta a ativação cortical associada ao movimento e pode contribuir para processos de neuroplasticidade e recuperação funcional. Além disso, diferentes pesquisas apontam que feedback somatossensorial reduz a dependência exclusiva do retorno visual, aperfeiçoando a percepção do usuário e o desempenho de sistemas baseados em BCI.
+
+  Mas, existem divergências quanto às abordagens empregadas. Enquanto alguns trabalhos concentram-se na restauração sensorial por meio da estimulação do sistema nervoso periférico e de neuropróteses, outros investigam a utilização de feedback vibrotátil, eletrotátil, imagética tátil ou ambientes de Realidade Virtual para potencializar a atividade sensório-motora. Também há diferenças significativas entre estudos experimentais e revisões de literatura, bem como na escolha dos dispositivos, formas de estimulação e métricas de avaliação.
+
+  Embora os avanços observados, persistem importantes lacunas de pesquisa. A maioria dos estudos utiliza amostras reduzidas e participantes saudáveis, havendo escassez de validações clínicas robustas com pacientes neurobiológicos. Além disso, poucos trabalhos integram simultaneamente BCI não invasivas, feedback somatossensorial, restauração tátil e Realidade Virtual, dificultando a compreensão do impacto conjunto dessas tecnologias. Dessa forma, torna-se necessária a realização de estudos que investiguem ambientes imersivos, capazes de combinar feedback tátil em tempo real, adaptação neural e aplicações clínicas voltadas à recuperação funcional e restauração sensorial.
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+  A atual revisão buscou responder à questão: como a literatura científica descreve e fundamenta as abordagens de interfaces cérebro-computador associadas ao feedback somatossensorial para gerar e restaurar sensações táteis (toque, pressão e vibração), e o que sustenta seus benefícios e limitações? A análise dos estudos demonstra que o feedback somatossensorial desempenha papel fundamental na complementação do retorno visual tradicionalmente utilizado em sistemas BCI, favorecendo o fechamento do loop sensório-motor e tornando a interação entre usuário e sistema mais eficiente.
+
+  Resultados encontrados indicam que diferentes abordagens não invasivas, como estimulação vibrotátil, estimulação eletrotátil, imagética tátil e calibração assistida por estímulos periféricos, podem aumentar a estimulação cortical sensório-motora, melhorar a qualidade dos sinais neurais e favorecer o desempenho de sistemas baseados em EEG. Trabalhos experimentais também demonstraram ganhos na precisão da classificação, diminuição do tempo de calibração e diminuição da dependência exclusiva do feedback visual, evidenciando o potencial dessas estratégias para aplicações em reabilitação e assistência tecnológica. Além disso, a literatura sustenta que feedback tátil contribui para a percepção corporal, para o sentimento de incorporação do membro ou avatar e para a reorganização neural associada à aprendizagem motora.
+
+  Os principais avanços identificados destacam-se o desenvolvimento de sistemas em malha fechada capazes de integrar feedback tátil em tempo real, a utilização da imagética tátil como alternativa à imagética motora habitual e a crescente integração entre BCI, inteligência artificial e ambientes de Realidade Virtual. Esses avanços reforçam o potencial das abordagens somatossensoriais para ampliar a eficiência de aplicações direcionadas à neuroreabilitação e à restauração funcional.
+
+  Entretanto, a revisão também evidenciou limitações. Grande parte das pesquisas foi realizada com amostras reduzidas e participantes saudáveis, havendo escassez de validações clínicas robustas envolvendo indivíduos com déficits. Além disso, persistem desafios relacionados à baixa relação sinal-ruído dos sistemas EEG, à interferência produzida pelos próprios dispositivos de estimulação, à adaptação sensorial durante a utilização prolongada e à dificuldade de reproduzir artificialmente sensações táteis com naturalidade comparável à percepção humana.
+
+  Como perspectivas futuras, recomenda-se o desenvolvimento de estudos clínicos com populações neurológicas, a investigação de sistemas multimodais capazes de combinar diferentes formas de feedback sensorial e a ampliação da integração entre BCI, Realidade Virtual e modelos de aprendizado de máquina adaptativos. Tais avanços poderão contribuir para a construção de interfaces mais eficientes, personalizadas e biologicamente consistentes, ampliando as possibilidades de geração e restauração de sensações táteis em contextos de reabilitação, assistência tecnológica e interação humano-máquina.
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`As Interfaces Cérebro-Computador (BCI) apresenta-se consolidado como uma tecnologia promissora para aplicações em neuroreabilitação, neuropróteses e interação homem-máquina. Nesse contexto, o feedback somatossensorial tem sido investigado como alternativa para complementar o retorno visual tradicional, possibilitando a geração e a restauração de sensações táteis favorecendo o fechamento do loop sensório-motor. A meta deste trabalho foi analisar criticamente as abordagens não invasivas de BCI associadas ao feedback somatossensorial para geração e restauração de sensações táteis. Como método, realizou-se uma fundamentação teórica crítica da literatura, com buscas em bases científicas especializadas e análise comparativa de estudos relacionados a feedback háptico, imagética motora, imagética tátil, neuropróteses e reabilitação neurológica. Os resultados mostram que técnicas como estimulação vibrotátil, eletrotátil, imagética tátil e calibração assistida por estímulos periféricos podem aumentar a ativação sensório-motora, melhorar precisão de sistemas BCI, reduzir tempo de calibração e favorecer processos de neuroplasticidade. Entretanto, também foram identificadas limitações relacionadas à baixa relação sinal-ruído dos sistemas baseados em eletroencefalograma, ao reduzido número de validações clínicas e aos desafios para reproduzir sensações táteis naturais de forma consistente. Conclui-se que o feedback somatossensorial não invasivo representa um plano promissor para aprimorar o desempenho das BCI e apoiar processos de restauração tátil, embora sejam necessárias investigações adicionais para ampliar sua aplicação clínica e sua integração com ambientes de Realidade Virtual e sistemas inteligentes.`
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+ACHANCCARAY, D.; IZUMI, S.-I.; HAYASHIBE, M. Visual-Electrotactile Stimulation Feedback to Improve Immersive Brain-Computer Interface Based on Hand Motor Imagery. Computational Intelligence and Neuroscience, v. 2021, art. 8832686, 2021. DOI: 10.1155/2021/8832686.
+
+BREWSTER, S.; CHOHAN, F.; BROWN, L. Tactile Feedback for Mobile Interactions. In: CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, 2007, San Jose. Proceedings [...]. New York: ACM, 2007. p. 159-162.
+
+FLEURY, M.; LIOI, G.; BARILLOT, C.; LÉCUYER, A. A Survey on the Use of Haptic Feedback for Brain-Computer Interfaces and Neurofeedback. Frontiers in Neuroscience, v. 14, art. 528, 2020. DOI: 10.3389/fnins.2020.00528.
+
+GOULDING, M.; BOLLU, T.; BÜSCHGES, A. Sensory Feedback and the Dynamic Control of Movement. Annual Review of Neuroscience, v. 48, p. 405-423, 2025. DOI: 10.1146/annurev-neuro-112723-042229.
+
+LAKSHMINARAYANAN, K.; SHAH, R.; DAULAT, S. R. et al. Evaluation of EEG Oscillatory Patterns and Classification of Compound Limb Tactile Imagery. Brain Sciences, v. 13, n. 4, art. 656, 2023. DOI: 10.3390/brainsci13040656.
+
+MACLEAN, K. E. Designing with Haptic Feedback. In: IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, 2000, San Francisco. Proceedings [...]. San Francisco: IEEE, 2000.
+
+PASLUOSTA, C.; KIELE, P.; STIEGLITZ, T. Paradigms for Restoration of Somatosensory Feedback via Stimulation of the Peripheral Nervous System: A Review. Journal of Neural Engineering, v. 15, n. 5, 2018.
+
+SCHOSTEK, S.; SCHURR, M. O.; BUESS, G. F. Review on Aspects of Artificial Tactile Feedback in Laparoscopic Surgery. Medical Engineering & Physics, v. 31, n. 8, p. 887-898, 2009. DOI: 10.1016/j.medengphy.2009.06.003.
+
+SEE, A. R.; CHOCO, J. A. G.; CHANDRAMOHAN, K. Touch, Texture and Haptic Feedback: A Review on How We Feel the World around Us. Applied Sciences, v. 12, n. 9, art. 4686, 2022. DOI: 10.3390/app12094686.
+
+ZHANG, B.; YOU, X.; LIU, Y.; XU, J.; XU, S. Multi-Level Perception Systems in Fusion of Lifeforms: Classification, Challenges and Future Conceptions. Sensors, v. 26, n. 2, art. 576, 2026. DOI: 10.3390/s26020576.
+
+ZHONG, Y.; YAO, L.; WANG, Y. Enhanced Motor Imagery Decoding by Calibration Model-Assisted With Tactile ERD. IEEE Transactions on Neural Systems and Rehabilitation Engineering, v. 31, p. 4295-4305, 2023. DOI: 10.1109/TNSRE.2023.3327788.
 
 ## Checklist
 
-- [ ] A introdução termina com o objetivo.
-- [ ] A metodologia descreve o processo realmente realizado.
-- [ ] A revisão compara os artigos.
-- [ ] A conclusão responde ao problema.
-- [ ] O resumo representa o texto completo.
+- [x] A introdução termina com o objetivo.
+- [x] A metodologia descreve o processo realmente realizado.
+- [x] A revisão compara os artigos.
+- [x] A conclusão responde ao problema.
+- [x] O resumo representa o texto completo.
