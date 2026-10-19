@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-` Como a literatura científica descreve e fundamenta as abordagens de interfaces cérebro-computador associadas ao feedback somatossensorial para gerar e restaurar sensações táteis (toque, pressão e vibração), e o que sustenta seus benefícios e limitações?`
+`Como a literatura científica descreve e fundamenta as abordagens de interfaces cérebro-computador associadas ao feedback somatossensorial para gerar e restaurar sensações táteis (toque, pressão e vibração), e o que sustenta seus benefícios e limitações?`
 
 ## Objetivo geral
 
