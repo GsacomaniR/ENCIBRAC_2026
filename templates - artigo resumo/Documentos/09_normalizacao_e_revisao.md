@@ -6,10 +6,10 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-- Título do artigo: `Interfaces Cérebro-Computador para Geração e Restauração de Sensações Táteis por Meio de Feedback Somatossensorial em Ambientes de Realidade Virtual`
-- Versão revisada: `[número]`
-- Data: `19/10/2026`
-- Responsável pela conferência final: `[preencher]`
+- Título do artigo: `INTERFACES CÉREBRO-COMPUTADOR E FEEDBACK SOMATOSSENSORIAL NA RESTAURAÇÃO TÁTIL: UMA REVISÃO CRÍTICA DE ABORDAGENS NÃO INVASIVAS`
+- Versão revisada: `2.0`
+- Data: `21/10/2026`
+- Responsável pela conferência final: `Gustavo Sacomani Rafael`
 
 ## Revisão científica
 
